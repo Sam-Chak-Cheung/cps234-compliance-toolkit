@@ -1,0 +1,9 @@
+CPS234 Area,Control,Information Asset,Evidence Type,Evidence Location,Owner,Date Collected,Status,Notes
+Information security capability,Security operating model,Enterprise security function,Document,,CISO office,,Not assessed,
+Policy framework,Information security policy,Enterprise policy set,Approved policy,,Governance team,,Not assessed,
+Information asset identification,Asset inventory,Critical business systems,Register extract,,Technology risk,,Not assessed,
+Control implementation,Identity controls,Identity platform,Configuration export,,Identity team,,Not assessed,
+Testing control effectiveness,Control testing,Key security controls,Test result,,Assurance team,,Not assessed,
+Incident management,Incident response process,Security operations,Incident record,,SOC,,Not assessed,
+Notification obligations,Regulatory notification process,Material incidents,Decision record,,Risk team,,Not assessed,
+Third-party security,Vendor assurance,Critical suppliers,Assessment record,,Procurement / risk,,Not assessed,

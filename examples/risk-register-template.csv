@@ -1,0 +1,4 @@
+Risk ID,Risk Statement,Asset or Process,Inherent Likelihood,Inherent Impact,Existing Controls,Residual Rating,Treatment Action,Owner,Due Date,Status
+CPS234-R001,Control evidence is incomplete for a critical information asset,Critical system,Medium,High,Manual evidence collection,Medium,Define evidence owner and review cadence,,,Open
+CPS234-R002,Third-party assurance is not current for a material service provider,Material supplier,Medium,High,Contractual security clauses,Medium,Request updated assurance report and review gaps,,,Open
+CPS234-R003,Incident notification decision records are inconsistent,Incident management process,Low,High,Incident response procedure,Medium,Add notification decision template to incident workflow,,,Open
